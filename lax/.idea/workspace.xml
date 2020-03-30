@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1983c520-1ca9-4f51-a444-67b370b71023" name="Default Changelist" comment="" />
+    <list default="true" id="1983c520-1ca9-4f51-a444-67b370b71023" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Wxh9ijwLAVySZ7dBWFOjWeuDDX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -155,6 +162,8 @@
       <workItem from="1584946065330" duration="118000" />
       <workItem from="1585313621952" duration="6094000" />
       <workItem from="1585450094906" duration="518000" />
+      <workItem from="1585451216001" duration="13000" />
+      <workItem from="1585557954251" duration="3034000" />
     </task>
     <servers />
   </component>
@@ -166,22 +175,22 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="520" y="311" width="424" height="483" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1580099581405" />
-    <state width="1866" height="339" key="GridCell.Tab.0.bottom" timestamp="1585321455868">
+    <state width="1866" height="273" key="GridCell.Tab.0.bottom" timestamp="1585575008584">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="339" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585321455868" />
-    <state width="1866" height="339" key="GridCell.Tab.0.center" timestamp="1585321455868">
+    <state width="1866" height="273" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585575008584" />
+    <state width="1866" height="273" key="GridCell.Tab.0.center" timestamp="1585575008583">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="339" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585321455868" />
-    <state width="1866" height="339" key="GridCell.Tab.0.left" timestamp="1585321455868">
+    <state width="1866" height="273" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585575008583" />
+    <state width="1866" height="273" key="GridCell.Tab.0.left" timestamp="1585575008583">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="339" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585321455868" />
-    <state width="1866" height="339" key="GridCell.Tab.0.right" timestamp="1585321455868">
+    <state width="1866" height="273" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585575008583" />
+    <state width="1866" height="273" key="GridCell.Tab.0.right" timestamp="1585575008584">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="339" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585321455868" />
+    <state width="1866" height="273" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585575008584" />
     <state width="1866" height="339" key="GridCell.Tab.1.bottom" timestamp="1585321455870">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -215,6 +224,6 @@
     <SUITE FILE_PATH="coverage/lax$lax_test.coverage" NAME="lax_test Coverage Results" MODIFIED="1585313629731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lax$lax_test__1_.coverage" NAME="lax_test (1) Coverage Results" MODIFIED="1580133266574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/公共的" />
     <SUITE FILE_PATH="coverage/lax$CPF_read.coverage" NAME="CPF_read Coverage Results" MODIFIED="1584843794717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/lax$test.coverage" NAME="test Coverage Results" MODIFIED="1585321398589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lax$test.coverage" NAME="test Coverage Results" MODIFIED="1585574611300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

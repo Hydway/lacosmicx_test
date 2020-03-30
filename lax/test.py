@@ -4,9 +4,9 @@ import matplotlib.pyplot as plt
 import  _lacosmicx as  lax
 from astropy.io import fits
 
-fits_file = fits.open('/home/hydway/Git/lacosmicx/data2/twoobjects/N1821824857_2.fits')
+fits_file = fits.open('/home/hydway/Git/lacosmicx/data2/twoobjects/N1821824893_1.fits')
 im = fits_file[0].data
-CPF_file = '/home/hydway/Git/lacosmicx/data2/twoobjects/N1821824857_2_gaia2.CPF'
+CPF_file = '/home/hydway/Git/lacosmicx/data2/twoobjects/N1821824893_1_gaia2.CPF'
 df = cpf.CPF_read(CPF_file)
 x = map(eval, df['cen_x'])
 y = map(eval, df['cen_y'])
@@ -20,7 +20,8 @@ print(im_clean)
 
 plt.figure(1)
 plt.imshow(im, cmap='gray')
-plt.scatter(x,y,alpha=0.4)
+plt.scatter(y,x,alpha=0.4)
+# plt.scatter(400,0)
 # plt.imshow(im_clean[1], cmap='gray')
 plt.figure(2)
 plt.imshow(im, cmap="gray")
