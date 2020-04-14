@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1983c520-1ca9-4f51-a444-67b370b71023" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPF_read.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lax_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lax_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,7 @@
       <recent name="$USER_HOME$/公共的" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.lax_test">
     <configuration name="CPF_read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lax" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,6 +107,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lax" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lax" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,8 +153,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.lax_test" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.CPF_read" />
         <item itemvalue="Python.lax_test (1)" />
       </list>
@@ -164,6 +189,11 @@
       <workItem from="1585450094906" duration="518000" />
       <workItem from="1585451216001" duration="13000" />
       <workItem from="1585557954251" duration="3034000" />
+      <workItem from="1585579027664" duration="665000" />
+      <workItem from="1586678317713" duration="4424000" />
+      <workItem from="1586841952311" duration="2236000" />
+      <workItem from="1586845554778" duration="4947000" />
+      <workItem from="1586891514353" duration="6293000" />
     </task>
     <servers />
   </component>
@@ -175,22 +205,22 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="520" y="311" width="424" height="483" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1580099581405" />
-    <state width="1866" height="273" key="GridCell.Tab.0.bottom" timestamp="1585575008584">
+    <state width="1866" height="273" key="GridCell.Tab.0.bottom" timestamp="1586895642398">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="273" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585575008584" />
-    <state width="1866" height="273" key="GridCell.Tab.0.center" timestamp="1585575008583">
+    <state width="1866" height="273" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1586895642398" />
+    <state width="1866" height="273" key="GridCell.Tab.0.center" timestamp="1586895642398">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="273" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585575008583" />
-    <state width="1866" height="273" key="GridCell.Tab.0.left" timestamp="1585575008583">
+    <state width="1866" height="273" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1586895642398" />
+    <state width="1866" height="273" key="GridCell.Tab.0.left" timestamp="1586895642398">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="273" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585575008583" />
-    <state width="1866" height="273" key="GridCell.Tab.0.right" timestamp="1585575008584">
+    <state width="1866" height="273" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1586895642398" />
+    <state width="1866" height="273" key="GridCell.Tab.0.right" timestamp="1586895642398">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="273" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585575008584" />
+    <state width="1866" height="273" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1586895642398" />
     <state width="1866" height="339" key="GridCell.Tab.1.bottom" timestamp="1585321455870">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -215,15 +245,16 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="614" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1580131557430" />
-    <state x="710" y="246" width="490" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585318636314">
+    <state x="710" y="245" width="490" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586893348194">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="710" y="246" width="490" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1585318636314" />
+    <state x="710" y="245" width="490" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1586893348194" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/lax$lax_test.coverage" NAME="lax_test Coverage Results" MODIFIED="1585313629731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lax$main.coverage" NAME="main Coverage Results" MODIFIED="1586893888684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lax$lax_test.coverage" NAME="lax_test Coverage Results" MODIFIED="1586895642390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lax$lax_test__1_.coverage" NAME="lax_test (1) Coverage Results" MODIFIED="1580133266574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/公共的" />
     <SUITE FILE_PATH="coverage/lax$CPF_read.coverage" NAME="CPF_read Coverage Results" MODIFIED="1584843794717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/lax$test.coverage" NAME="test Coverage Results" MODIFIED="1585574611300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lax$test.coverage" NAME="test Coverage Results" MODIFIED="1586846721144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
